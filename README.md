@@ -1,1 +1,1 @@
-# java19-todo-app
+version: java19-todo-app-1.0-snapshot
